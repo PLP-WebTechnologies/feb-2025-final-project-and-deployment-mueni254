@@ -34,5 +34,7 @@ portfolio-website/
         project1.pdf # Linked project sample
         Images 
 
-Deployment link 
+WEBSITE  link 
+https://jacquelinemusyoka.netlify.app/
+
 
